@@ -1,0 +1,6 @@
+# requirements.txt for Python producer and dashboard
+
+kafka-python==2.0.2
+flask==2.2.3
+pymysql==1.0.2
+requests==2.28.2

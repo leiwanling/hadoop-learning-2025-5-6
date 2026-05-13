@@ -1,0 +1,5 @@
+{"user_id":"u_1001","item_id":"i_5002","category_id":"c_301","behavior_type":"click","quantity":0,"amount":0,"timestamp":1700000000000,"session_id":"s_abc123"}
+{"user_id":"u_1002","item_id":"i_5003","category_id":"c_302","behavior_type":"cart","quantity":0,"amount":0,"timestamp":1700000001000,"session_id":"s_abc124"}
+{"user_id":"u_1003","item_id":"i_5004","category_id":"c_303","behavior_type":"buy","quantity":2,"amount":99.90,"timestamp":1700000002000,"session_id":"s_abc125"}
+{"user_id":"u_1004","item_id":"i_5005","category_id":"c_304","behavior_type":"fav","quantity":0,"amount":0,"timestamp":1700000003000,"session_id":"s_abc126"}
+{"user_id":"u_1005","item_id":"i_5006","category_id":"c_305","behavior_type":"click","quantity":0,"amount":0,"timestamp":1700000004000,"session_id":"s_abc127"}
